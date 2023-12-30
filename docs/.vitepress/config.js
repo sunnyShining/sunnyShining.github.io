@@ -5,7 +5,7 @@ export default {
   description: "sunshine",
   // 打包目录
   outDir: '../output',
-  base: "/",
+  base: "/output/",
   // 头部head
   head: [
     // 添加图标
