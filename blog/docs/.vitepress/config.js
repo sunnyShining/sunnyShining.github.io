@@ -4,7 +4,7 @@ export default {
   // 网站描述
   description: "sunshine",
   // 打包目录
-  outDir: '../output',
+  outDir: '../../docs',
   base: "/output/",
   // 头部head
   head: [
