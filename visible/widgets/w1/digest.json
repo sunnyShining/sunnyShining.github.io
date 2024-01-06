@@ -1,0 +1,6 @@
+{
+  "name": "@reaf/w1",
+  "hash": "cd1dd9d4b0a69475d3a3",
+  "styles": "style.[hash].css",
+  "deps": "@reaf/w2"
+}
