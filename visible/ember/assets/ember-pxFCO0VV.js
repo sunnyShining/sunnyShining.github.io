@@ -1,0 +1,1 @@
+import{d as t,o as s,c as a,u as n,P as r}from"./index-ael_aa0k.js";const i=t({__name:"ember",setup(p){const e={render:"vant.Image",id:"Image",props:{width:"100",height:"100",src:"https://fastly.jsdelivr.net/npm/@vant/assets/cat.jpeg"},slots:{default:[{render:"span",id:"span",props:{innerText:"222"}}]}};return(o,c)=>(s(),a(n(r),{portlet:e}))}});export{i as default};
