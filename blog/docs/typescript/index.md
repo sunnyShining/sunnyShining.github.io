@@ -2,7 +2,7 @@
 title typescript基础
 ---
 
-## `type`与`interface`的区别
+## 1、`type`与`interface`的区别
 
 **相同**
 

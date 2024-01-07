@@ -4,14 +4,14 @@ title 基础
 
 ##
 
-## querySelectorAll()和getElementsByTagName的区别
+## 1、querySelectorAll()和getElementsByTagName的区别
 
 `querySelectorAll()`和`getElementsByTagName()`两者的主要区别就是返回值。前者返回的是`NodeList`集合，后者返回的是`HTMLCollection`集合。
 
 `NodeList`对象是一个节点的集合，是由`Node.childNodes`和`document.querySelectorAll()`返回的。`NodeList`并不是都是静态的，`Node.childNodes`返回的是动态的元素集合，`querySelectorAll()`返回的是一个静态集合。
 `HTMLCollection`返回一个时时包括所有给定标签名称的元素的HTML集合，也就是动态集合。
 
-## localStorage 怎么设置过期时间
+## 2、localStorage 怎么设置过期时间
 
 1.在存储数据时，同时保存一个过期时间
 

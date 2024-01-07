@@ -32,8 +32,6 @@ export default {
           items: [
             { text: "html基础", link: "/html/" },
           ],
-          collapsible: true,
-          collapsed: true,
         },
         {
           text: "css",
