@@ -1,0 +1,1 @@
+System.register(["./index-legacy-VYyxLGrq.js"],(function(e,t){"use strict";var n,d,r;return{setters:[e=>{n=e._,d=e.f,r=e.h}],execute:function(){var t=document.createElement("style");t.textContent="div[data-v-292052da]{color:red}\n",document.head.appendChild(t),e("default",n({},[["render",function(e,t){return d(),r("div",null,"code")}],["__scopeId","data-v-292052da"]]))}}}));
