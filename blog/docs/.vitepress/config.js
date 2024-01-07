@@ -9,7 +9,7 @@ export default {
   // 头部head
   head: [
     // 添加图标
-    ["link", { rel: "icon", href: "/favicon.ico" }],
+    ["link", { rel: "icon", href: "/docs/favicon.ico" }],
   ],
   // 使用插件
   plugins: [],
@@ -30,8 +30,7 @@ export default {
         {
           text: "html",
           items: [
-            { text: "基础", link: "/html/" },
-            { text: "进阶", link: "/html/advanced" },
+            { text: "html基础", link: "/html/" },
           ],
           collapsible: true,
           collapsed: true,
@@ -39,54 +38,49 @@ export default {
         {
           text: "css",
           items: [
-            { text: "基础", link: "/css/" },
-            { text: "进阶", link: "/css/advanced" },
+            { text: "css基础", link: "/css/" },
           ],
-          collapsible: true,
-          collapsed: false,
         },
         {
           text: "javascript",
           items: [
-            { text: "基础", link: "/javascript/" },
-            { text: "进阶", link: "/javascript/advanced" },
-            { text: "进阶", link: "/javascript/nightmare" },
+            { text: "javascript基础", link: "/javascript/" },
           ],
-          collapsible: true,
-          collapsed: false,
+        },
+        {
+          text: "typescript",
+          items: [
+            { text: "typescript基础", link: "/typescript/" },
+          ],
         },
         {
           text: "vue",
           items: [
-            { text: "基础", link: "/vue/" },
-            { text: "进阶", link: "/vue/advanced" },
+            { text: "vue基础", link: "/vue/" },
+            { text: "vue进阶", link: "/vue/advanced" },
           ],
-          collapsible: true,
-          collapsed: false,
+        },
+        {
+          text: "react",
+          items: [
+            { text: "react基础", link: "/react/" },
+          ],
         },
         {
           text: "网络",
           items: [
-            { text: "基础", link: "/network/" },
-            { text: "进阶", link: "/network/advanced" },
+            { text: "网络基础", link: "/network/" },
           ],
-          collapsible: true,
-          collapsed: false,
         },
         {
           text: "安全",
           items: [
-            { text: "基础", link: "/security/" },
-            { text: "进阶", link: "/security/advanced" },
+            { text: "安全", link: "/security/" },
           ],
-          collapsible: true,
-          collapsed: false,
         },
         {
           text: "算法",
-          items: [{ text: "基础", link: "/algorithm/" }],
-          collapsible: true,
-          collapsed: false,
+          items: [{ text: "算法基础", link: "/algorithm/" }],
         },
       ],
     },
