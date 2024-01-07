@@ -20,7 +20,10 @@ export default {
     // 启动页面丝滑滚动
     smoothScroll: true,
     // 导航栏配置
-    nav: [{ text: "Github", link: "https://github.com/sunnyShining" }],
+    nav: [
+      { text: "Github", link: "https://github.com/sunnyShining" },
+      { text: "Visible", link: "https://sunnyshining.github.io/visible/editor/#/" },
+    ],
     sidebar: {},
   },
 };
