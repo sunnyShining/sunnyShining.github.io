@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: 快速开始
-      link: /guide/what-is-vitepress
+      link: /html/
     - theme: alt
       text: github
       link: https://github.com/sunnyShining
